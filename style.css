@@ -1,0 +1,12 @@
+.animals{
+    display: flex;
+    background-color: lightgrey;
+}
+.image{
+    border-style: double;
+    border-color: indianred;
+    background-color: khaki;
+}
+.ul1{
+    justify-content: center;
+}
